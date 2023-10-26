@@ -4,4 +4,4 @@
 My personal Cydia repo containing tweaks that I use.
 
 ## This includes
-- AppSync Unified by Karen/あけみ
+- AppSync Unified by [Karen/あけみ](https://cydia.akemi.ai/).
