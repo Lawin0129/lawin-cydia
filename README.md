@@ -10,9 +10,9 @@ My personal Cydia repo containing tweaks that I use.
 - Cylinder (iOS 3.0-13.7) by [rweichler](https://github.com/rweichler/cylinder).
 - Filza File Manager (iOS 7.0-16.x) by [TigiSoftware](https://twitter.com/tigisoftware).
 - iFile (iOS 2.0-10.3.4) by [carsten](https://twitter.com/iFile4iPhone).
-- LocalIAPStore (iOS 6.0-12.x) by anondev.
-- MTerminal (iOS 4.0-10.3.4) by lordscotland.
-- Power Tap (iOS 7.1-10.3.4) by dpkgdan.
+- LocalIAPStore (iOS 6.0-12.x) by [anondev](https://github.com/ZonD80/in-appstore.com).
+- MTerminal (iOS 4.0-10.3.4) by [lordscotland](https://bitbucket.org/lordscotland/mterminal/src/master/).
+- Power Tap (iOS 7.1-10.3.4) by [dpkgdan](https://github.com/DpkgDan/Power-Tap).
 - RoundDock (iOS 7.0-10.3.4) by broganminer.
 - ShowCase (iOS 4.0-8.4.1) by ashikase.
 - Software Update Killer (iOS 5.0-8.4.1) by lunatik.
