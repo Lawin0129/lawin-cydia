@@ -17,3 +17,4 @@ My personal Cydia repo containing tweaks that I use.
 - ShowCase (iOS 4.0-8.4.1) by ashikase.
 - Software Update Killer (iOS 5.0-8.4.1) by lunatik.
 - Wifi Passwords List (iOS 7.0-10.3.4) by aaronash.
+- Cydia Eraser (iOS 7.1-10.3.3) by [Jay Freeman (saurik)](https://twitter.com/saurik).
