@@ -4,6 +4,7 @@
 My personal Cydia repo containing tweaks that I use.
 
 ## This includes
+### Tweaks
 - AppSync Unified (iOS 5.0-16.5.1) by [Karen/あけみ](https://cydia.akemi.ai/).
 - SSL Kill Switch 2 (iOS 6.0-14.2) by [nabla-c0d3](https://github.com/nabla-c0d3/ssl-kill-switch2).
 - BatteryLife App (iOS 6.0-11.4.1) by rbt.
@@ -18,3 +19,6 @@ My personal Cydia repo containing tweaks that I use.
 - Software Update Killer (iOS 5.0-8.4.1) by lunatik.
 - Wifi Passwords List (iOS 7.0-10.3.4) by aaronash.
 - Cydia Eraser (iOS 7.1-10.3.3) by [Jay Freeman (saurik)](https://twitter.com/saurik).
+
+### Utilities
+- PreferenceLoader by [DHowett](https://github.com/DHowett/preferenceloader).
