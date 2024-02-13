@@ -20,6 +20,7 @@ My personal Cydia repo containing tweaks that I use.
 - Wifi Passwords List v1.0.1-1 (iOS 7.0-10.3.4) by aaronash.
 - Cydia Eraser v0.9.43 (iOS 7.1-10.3.3) by [Jay Freeman (saurik)](https://twitter.com/saurik).
 - OpenSSH v6.7p1-13 by [Jay Freeman (saurik)](https://twitter.com/saurik).
+- Clutch v2.0.4 (iOS 6.0-10.3.4) by [KJCracks](https://github.com/KJCracks/Clutch).
 
 ### Utilities
 - PreferenceLoader v2.2.6 by [DHowett](https://github.com/DHowett/preferenceloader).
