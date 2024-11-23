@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kok3shi9</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>Click the button to install kok3shi9.</p>
+    <button id="redirectButton">Download</button>
+
+    <script>
+        document.getElementById("redirectButton").addEventListener("click", function() {
+
+            window.location.href = "itms-services://?action=download-manifest&url=https://repo.lawin.co.uk/IPAtest/assets/plist/kok3shi9_v5.0.3.plist";
+        });
+    </script>
+</body>
+</html>
+
