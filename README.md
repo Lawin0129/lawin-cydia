@@ -22,6 +22,7 @@ My personal Cydia repo containing tweaks that I use.
 - OpenSSH v6.7p1-13 by [Jay Freeman (saurik)](https://twitter.com/saurik).
 - Clutch v2.0.4 (iOS 6.0-10.3.4) by [KJCracks](https://github.com/KJCracks/Clutch).
 - Way Out v1.6.2-1G27a (iOS 5.0+) by [NyanSatan](https://github.com/NyanSatan).
+- Mikoto v4.0.3 (iOS 5.0+) by [Karen/あけみ](https://cydia.akemi.ai/).
 
 ### Utilities
 - PreferenceLoader v2.2.6 by [DHowett](https://github.com/DHowett/preferenceloader).
