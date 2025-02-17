@@ -25,6 +25,7 @@ My personal Cydia repo containing tweaks that I use.
 - Mikoto v4.0.3 (iOS 5.0+) by [Karen/あけみ](https://cydia.akemi.ai/).
 - Pangu 7.1-7.1.x Untether v0.3 (iOS 7.1-7.1.2) by Pangu Team.
 - iFile/MTerminal icon fix v4.0.1 by OldWorldOrder.
+- Retranslate v1.0.0 by Preloading.
 
 ### Utilities
 - PreferenceLoader v2.2.6 by [DHowett](https://github.com/DHowett/preferenceloader).
